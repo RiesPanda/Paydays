@@ -1,0 +1,8 @@
+name: Paydays
+version: ${project.version}
+main: tv.twitch.riespanda.paydays.Paydays
+api-version: 1.13
+depend: [Vault]
+authors: [RiesPanda]
+description: A plugin that gives the players payment every x time.
+website: https://twitch.tv/RiesPanda

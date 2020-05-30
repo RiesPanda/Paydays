@@ -1,0 +1,9 @@
+# Paydays by RiesPanda#3952
+# Requires Vault to work.
+
+
+
+# This will change the amount of time between paydays (in seconds)
+time-between-paydays: 20
+# This will change the amount gained per payday
+amount-paid: 300
